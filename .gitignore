@@ -452,6 +452,3 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-CouponsAPI/CA_Bundle.cer
-CouponsAPI/CA_Bundle.crt
-CouponsAPI/CA_Bundle.pem
